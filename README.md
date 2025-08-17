@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do **Desafio Técnico da Academia Accen
 
 ### 🟣 Objetivo
 
-Automatizar testes para a página **Web Tables** do **DemoQA**, cobrindo cenários de manipulação de dados como **criação, leitura, atualização e exclusão** de registros. Além disso, foi implementado um teste específico para validar o comportamento do formulário de cadastro quando campos obrigatórios são deixados em branco, garantindo que a mensagem de erro apropriada seja exibida.
+Automatizar testes para a página **Web Tables** do **DemoQA**, cobrindo cenários como **criação, validação, atualização e exclusão** de registros. Além disso, foi implementado um teste específico para validar o comportamento do formulário de cadastro quando campos obrigatórios são deixados em branco, garantindo que a mensagem de erro apropriada seja exibida.
 
 ### 🟣 Funcionalidades Automatizadas
 
